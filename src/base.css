@@ -232,7 +232,7 @@ div[class^="sidebar-"] nav,
 }
 
 div[class^="sidebar-"]>nav>div[class^="searchBar"] {
-	height: 64px;
+	height: 54px;
 }
 
 div[id^="members-"] {
